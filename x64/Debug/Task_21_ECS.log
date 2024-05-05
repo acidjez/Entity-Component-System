@@ -1,0 +1,4 @@
+﻿  RenderSystem.cpp
+C:\Users\Jez\GitHub\COS30031-2023-103925850\21 - Spike - Entity Component System\Task_21_ECS\Task_21_ECS\Components.h(48,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jez\GitHub\COS30031-2023-103925850\21 - Spike - Entity Component System\Task_21_ECS\Task_21_ECS\Components.h(49,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Task_21_ECS.vcxproj -> C:\Users\Jez\GitHub\COS30031-2023-103925850\21 - Spike - Entity Component System\Task_21_ECS\x64\Debug\Task_21_ECS.exe
